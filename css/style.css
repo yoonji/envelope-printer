@@ -1,0 +1,22 @@
+.envelope {
+	position: relative;
+	width: 700px;
+	height: 300px;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+.return, .mailing {
+	position: absolute;
+}
+
+.return {
+	top: 20px;
+	left: 20px;
+}
+
+
+.mailing {
+	top: 50%;
+	left: 50%;
+}
